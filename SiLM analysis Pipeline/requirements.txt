@@ -1,0 +1,13 @@
+# Python Version: 3.11.5
+# CUDA Version: 12.1
+# Windows SDK Version: 10.0.17763.0
+
+numpy==1.26.4
+PIL==10.3.0
+matplotlib==3.8.4
+cv2==4.8.1
+tkinter==Unknown
+ctypes==1.1.0
+scipy==1.13.0
+numba==0.59.1
+tifffile==2023.4.12
