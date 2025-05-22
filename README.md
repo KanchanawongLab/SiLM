@@ -1,7 +1,9 @@
-Manuel for using the SiLM analysis pipiline and CUDA code can be found in each folder
+Three folders are created. 1:
 
-Public SiLM: GUI for calulating the theoratical intensity curves and CRLB in SiLM
 
+Manuals for using the SiLM analysis pipeline and CUDA code are available in each folder.
+
+Public SiLM: A graphical user interface (GUI) for calculating theoretical intensity curves and the Cramér–Rao lower bound (CRLB) in SiLM.
 
 Hardware requirements
 The code are tested on a standard computer with CUDA 12.1 installed and properly configured. GPU supports CUDA 12.1 
