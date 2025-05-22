@@ -1,6 +1,6 @@
 Three folders are created. 
 
-1:CUDA source codes: source codes for generating the gpu dll functions in SiLM.
+ 1:CUDA source codes: source codes for generating the gpu dll functions in SiLM.
 
 2. SiLM analysis Pipeline: analysis pipeline codes of SiLM, where the raw data can be found in "https://zenodo.org/records/15487082"
    
