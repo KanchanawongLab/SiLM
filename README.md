@@ -1,8 +1,6 @@
 Three folders are created. 
 1:CUDA source codes: source codes for generating the gpu dll functions in SiLM.
-2. SiLM analysis Pipeline: analysis pipeline codes of SiLM, where the raw data can be found in "https://zenodo.org/records/15487082
-![image](https://github.com/user-attachments/assets/ade90463-c81a-4a69-a5e6-f05e5eee7070)
-"
+2. SiLM analysis Pipeline: analysis pipeline codes of SiLM, where the raw data can be found in "https://zenodo.org/records/15487082"
 3. Public SiLM: A graphical user interface (GUI) for calculating theoretical intensity curves and the Cramér–Rao lower bound (CRLB) in SiLM.
 
 Manuals for using the SiLM analysis pipeline and CUDA code are available in each folder.
